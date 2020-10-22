@@ -1,0 +1,6 @@
+.wrappper {
+    will-change: auto;
+    &:placeholder-shown {
+        widows: inherit;
+    }
+}
